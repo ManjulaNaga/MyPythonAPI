@@ -1,0 +1,29 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-753-383
+INFO:werkzeug: * Detected change in '/Users/vamsi/Manju/Kinetic_IoT/pythonAPI/myAPI/app.py', reloading
+INFO:root:started logging...
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:started logging...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-753-383
+INFO:root:printing items........
+INFO:root:Finished
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2019 13:44:01] "GET /user/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2019 13:54:59] "POST /user HTTP/1.1" 500 -
+INFO:root:started logging...
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:started logging...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-753-383
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2019 13:56:29] "POST /user HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2019 13:57:06] "POST /user HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/vamsi/Manju/Kinetic_IoT/pythonAPI/myAPI/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:started logging...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-753-383
+INFO:root:get user function is working....
+INFO:root:get user function is ended....
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2019 13:59:23] "GET /user/003 HTTP/1.1" 200 -
